@@ -6,4 +6,6 @@ Understanding the detailed outputs of AquaCrop model is crucial for agricultural
 
 It is presumed that the user already did simulation runs in the standard AquaCrop model. The AquaCrop outputs should be saved in the same manner as displayed below.
 
+After saving the AquaCrop output, the user could use the Python codes inside **AquaCropvis.ipynb** file provided in this repository 
+
 ![Image Alt](https://github.com/AdeBIrk/AquaCropvis/blob/cd56f7ab5e64175f1e6e705728da54484e349f9d/Save%20AquaCrop%20output.png)
