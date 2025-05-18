@@ -3,7 +3,7 @@ Crop development and production
 
 ** Run number:  1
    Day Month  Year   DAP Stage    GD       Z     StExp  StSto  StSen StSalt StWeed   CC      CCw     StTr  Kc(Tr)     Trx      Tr       TrW  Tr/Trx   WP    Biomass     HI  YieldPart  Brelative   WPet
-                                캜-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
+                                째C-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
     22     3  2020     1    1     0.0    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.6     0.000    -9.9    0.000       -9      0.00
     23     3  2020     2    1     0.0    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.6     0.000    -9.9    0.000       -9      0.00
     24     3  2020     3    1     0.0    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.6     0.000    -9.9    0.000       -9      0.00
@@ -204,7 +204,7 @@ Crop development and production
 
 ** Run number:  2
    Day Month  Year   DAP Stage    GD       Z     StExp  StSto  StSen StSalt StWeed   CC      CCw     StTr  Kc(Tr)     Trx      Tr       TrW  Tr/Trx   WP    Biomass     HI  YieldPart  Brelative   WPet
-                                캜-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
+                                째C-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
     22     3  2021     1    1     4.5    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.6     0.000    -9.9    0.000       -9      0.00
     23     3  2021     2    1     5.8    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.6     0.000    -9.9    0.000       -9      0.00
     24     3  2021     3    1     6.8    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.6     0.000    -9.9    0.000       -9      0.00
@@ -405,7 +405,7 @@ Crop development and production
 
 ** Run number:  3
    Day Month  Year   DAP Stage    GD       Z     StExp  StSto  StSen StSalt StWeed   CC      CCw     StTr  Kc(Tr)     Trx      Tr       TrW  Tr/Trx   WP    Biomass     HI  YieldPart  Brelative   WPet
-                                캜-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
+                                째C-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
     22     3  2022     1    1     7.4    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.7     0.000    -9.9    0.000       -9      0.00
     23     3  2022     2    1     7.8    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.7     0.000    -9.9    0.000       -9      0.00
     24     3  2022     3    1     5.8    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.7     0.000    -9.9    0.000       -9      0.00
@@ -606,7 +606,7 @@ Crop development and production
 
 ** Run number:  4
    Day Month  Year   DAP Stage    GD       Z     StExp  StSto  StSen StSalt StWeed   CC      CCw     StTr  Kc(Tr)     Trx      Tr       TrW  Tr/Trx   WP    Biomass     HI  YieldPart  Brelative   WPet
-                                캜-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
+                                째C-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
     22     3  2023     1    1    12.1    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.8     0.000    -9.9    0.000       -9      0.00
     23     3  2023     2    1    13.6    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.8     0.000    -9.9    0.000       -9      0.00
     24     3  2023     3    1    11.4    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.8     0.000    -9.9    0.000       -9      0.00
@@ -807,7 +807,7 @@ Crop development and production
 
 ** Run number:  5
    Day Month  Year   DAP Stage    GD       Z     StExp  StSto  StSen StSalt StWeed   CC      CCw     StTr  Kc(Tr)     Trx      Tr       TrW  Tr/Trx   WP    Biomass     HI  YieldPart  Brelative   WPet
-                                캜-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
+                                째C-day     m       %      %      %      %      %      %       %       %       -        mm       mm       mm    %     g/m2    ton/ha      %    ton/ha       %      kg/m3
     22     3  2024     1    1     9.2    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.8     0.000    -9.9    0.000       -9      0.00
     23     3  2024     2    1     5.7    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.8     0.000    -9.9    0.000       -9      0.00
     24     3  2024     3    1     4.5    0.30     -9     -9     -9      0     -9     0.0     0.0      0    -9.00      0.0      0.0      0.0   100    16.8     0.000    -9.9    0.000       -9      0.00
